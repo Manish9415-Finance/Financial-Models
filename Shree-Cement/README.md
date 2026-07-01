@@ -19,6 +19,6 @@ Recommendation: BUY/HOLD
 
 ## Data Sources
 BSE/NSE filings, Annual Reports, Q3 FY26 Concall Transcript,
-Investor Presentations
+Investor Presentations, IBEF Industry Reports
 
 Analyst: Manish Rathour | MBA Finance | FMVA Certified
